@@ -181,3 +181,5 @@ if (process.env.NODE_ENV != "production") {
 // !!! 5. Tambahkan export agar Elysia dapat dibaca Vercel serverless
 export default app;
 export type App = typeof app;
+
+// testing
